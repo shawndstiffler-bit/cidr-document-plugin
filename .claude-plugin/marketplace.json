@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cidr-plugins",
+  "description": "Caller ID Reputation (CIDR) plugins for document formatting and brand consistency",
+  "owner": {
+    "name": "Shawn Stiffler",
+    "email": "shawndstiffler@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "cidr-document-format",
+      "description": "Enforces CIDR (Caller ID Reputation) brand-consistent formatting for all documents, reports, SOPs, policies, and deliverables",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shawn Stiffler",
+        "email": "shawndstiffler@gmail.com"
+      },
+      "source": "./plugins/cidr-document-format",
+      "category": "productivity"
+    }
+  ]
+}
