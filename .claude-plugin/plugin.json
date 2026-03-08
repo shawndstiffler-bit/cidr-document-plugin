@@ -1,0 +1,8 @@
+{
+  "name": "cidr-document-format",
+  "description": "Enforces CIDR (Caller ID Reputation) brand-consistent formatting for all documents, reports, SOPs, policies, and deliverables",
+  "author": {
+    "name": "Shawn Stiffler",
+    "email": "shawndstiffler@gmail.com"
+  }
+}
